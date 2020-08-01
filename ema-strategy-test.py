@@ -126,5 +126,3 @@ print("Max Return: "+ maxprofit)
 print("Max Loss: "+ maxlosses)
 print("Total return over "+str(numprofits+numlosses)+ " trades: "+ str(totalreturn)+"%" )
 print()
-
-
