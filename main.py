@@ -43,3 +43,5 @@ for i in data.index:
     numLower+=1
 print("Close>MA "+str(numHigher)+" times")
 print("Close<MA "+str(numLower)+" times")
+
+print("Test Commit")
